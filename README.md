@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Stanned, you may know me as StanEXE or just Stan.
+I primarily code Minecraft Spigot plugins, but also make Discord bots using Node.js.
+
+Currently, I'm working on my Minecraft Server, called **AquiferMC**.
+
+The best way to contact me, is using Discord: Stan#9256
+
 
 <!--
 **Stanned/Stanned** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
